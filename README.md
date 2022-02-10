@@ -5,4 +5,5 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 Here the final result:
 
-/home/tao/Holber_Web_Stack/holberton-smiling-school/images/1.jpg
+
+![1](https://user-images.githubusercontent.com/66349466/153480434-adecb116-17d7-477b-80ec-605d25c6c6b7.jpg)
